@@ -1,1 +1,1 @@
-# kattis-sols
+Solutions to Kattis problems, many of them from ICPC Club meetings.
